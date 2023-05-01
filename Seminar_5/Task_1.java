@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Task_5_1 {
+public class Task_1 {
 
     public static void main(String[] args) {
         Map<String, ArrayList<String>> phoneBook = new HashMap<>();

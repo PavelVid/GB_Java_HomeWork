@@ -31,7 +31,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class Task_5_2 {
+public class Task_2 {
     public static void main(String[] args) {
         Map<String, Integer> namePeople = new HashMap<>();
         String[] staff = {

@@ -1,6 +1,6 @@
 // Реализовать алгоритм пирамидальной сортировки (HeapSort).
 
-public class task3 {
+public class Task_3 {
    
     public static int LEFT(int i) {
         return (2*i + 1);
